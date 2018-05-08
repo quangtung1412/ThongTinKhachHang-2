@@ -1,0 +1,109 @@
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.GUI.frmMain.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.GUI.frmNhapTTKH.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.GUI.frmTimkiemKH.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.GUI.frmMainRibbon.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\bin\Debug\TTKH.exe.config
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\bin\Debug\TTKH.exe
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\bin\Debug\TTKH.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Flow.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Maths.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Zip.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\bin\Debug\Microsoft.VisualStudio.TestTools.UITesting.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Core.xml
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Flow.xml
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Maths.xml
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Zip.xml
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\bin\Debug\Microsoft.VisualStudio.TestTools.UITesting.xml
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.xml
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.xml
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.exe
+C:\Users\Administrator\documents\visual studio 2012\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.GUI.frmBien_ban_dinh_gia.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.GUI.frmMain.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.GUI.frmNhapTTKH.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.GUI.frmTimkiemKH.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\TTKH.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\TTKH.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\TTKH.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Flow.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Maths.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Zip.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Core.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Flow.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Maths.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Zip.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.pdb
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\TTKH.exe.config
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.csproj.ResolveComReference.cache
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.exe
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.pdb
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.GUI.frmBien_ban_dinh_gia.resources
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.GUI.frmMain.resources
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.GUI.frmNhapTTKH.resources
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.GUI.frmTimkiemKH.resources
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.Properties.Resources.resources
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.csproj.GenerateResource.Cache
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\TTKH.exe
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\TTKH.pdb
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Core.xml
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Flow.xml
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Maths.xml
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Zip.xml
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.GUI.frmHop_dong_vay.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.csprojResolveAssemblyReference.cache
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\TTKH.GUI.frmHop_dong_vay.resources
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\bin\Debug\TTKH.exe.config
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\obj\Debug\TTKH.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\obj\Debug\TTKH.exe
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\obj\Debug\TTKH.pdb
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\bin\Debug\TTKH.exe
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\bin\Debug\TTKH.pdb
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Flow.dll
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Maths.dll
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Zip.dll
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Core.xml
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Flow.xml
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Maths.xml
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\bin\Debug\Telerik.Windows.Zip.xml
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\obj\Debug\TTKH.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\obj\Debug\TTKH.GUI.frmBien_ban_dinh_gia.resources
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\obj\Debug\TTKH.GUI.frmMain.resources
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\obj\Debug\TTKH.GUI.frmNhapTTKH.resources
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\obj\Debug\TTKH.GUI.frmTimkiemKH.resources
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\obj\Debug\TTKH.GUI.frmHop_dong_vay.resources
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\obj\Debug\TTKH.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Thong tin khach hang\TTKH\obj\Debug\TTKH.csproj.GenerateResource.Cache

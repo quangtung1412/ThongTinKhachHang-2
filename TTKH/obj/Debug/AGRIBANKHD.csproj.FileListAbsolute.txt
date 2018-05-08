@@ -1,0 +1,348 @@
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.csproj.GenerateResource.Cache
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmMain.resources
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.Properties.Resources.resources
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmThong_tin_kh_vay.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmThong_tin_can_bo.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmMain.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.csproj.GenerateResource.Cache
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmThong_tin_can_bo.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_thong_tin_can_bo.resources
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_thong_tin_can_bo.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmThong_tin_kh_vay.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_thong_tin_kh_vay.resources
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_thong_tin_kh_vay.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmThong_tin_hop_dong_vay.resources
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmThong_tin_hop_dong_vay.resources
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_thong_tin_hop_dong_vay.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_thong_tin_hop_dong_vay.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmTai_san_the_chap.resources
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmTai_san_the_chap.resources
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_tai_san_the_chap.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_tai_san_the_chap.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmDang_nhap.resources
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmDang_nhap.resources
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmTao_ho_so_vay.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmTao_ho_so_vay.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\DocX.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\AGRIBANKHD.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\AGRIBANKHD.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\AGRIBANKHD.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmDoi_mat_khau.resources
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\AGRIBANKHD.exe.config
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.exe
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.pdb
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmDoi_mat_khau.resources
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\DXGN\TO_CHUC_DE_XUAT_GIAI_NGAN.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\AGRIBANKHD.exe
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\AGRIBANKHD.pdb
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\DocX.dll
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Icons\favicon.ico
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Icons\ms_icon_144x144_kHe_icon.ico
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Images\Tru_so_Agribank.jpg
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Images\Tru_so_Agribank_HD.JPG
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\TextBoxPrice.dll
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Icons\favicon.ico
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Icons\ms_icon_144x144_kHe_icon.ico
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Images\Tru_so_Agribank.jpg
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Images\Tru_so_Agribank_HD.JPG
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\TextBoxPrice.dll
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmTest.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmTest.resources
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTD\CA_NHAN_DU_AN_DAU_TU.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTD\CA_NHAN_HAN_MUC_CO_BAO_LANH.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTD\CA_NHAN_HAN_MUC_KHONG_BAO_LANH.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTD\CA_NHAN_TUNG_LAN.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTD\HO_GIA_DINH_DU_AN_DAU_TU.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTD\HO_GIA_DINH_HAN_MUC_CO_BAO_LANH.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTD\HO_GIA_DINH_HAN_MUC_KHONG_BAO_LANH.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTD\HO_GIA_DINH_TUNG_LAN.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTD\TO_CHUC_DU_AN_DAU_TU.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTD\TO_CHUC_HAN_MUC_CO_BAO_LANH.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTD\TO_CHUC_HAN_MUC_KHONG_BAO_LANH.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTD\TO_CHUC_TUNG_LAN.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\TEST\TEST.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\BBDG\BBDG_CA_NHAN_BDS.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\BBDG\BBDG_CA_NHAN_BDS_TSGL.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\BBDG\BBDG_CA_NHAN_DS.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\BBDG\BBDG_CA_NHAN_TSTC_KHAC.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\BBDG\BBDG_HO_GIA_DINH_BDS.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\BBDG\BBDG_HO_GIA_DINH_BDS_TSGL.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\BBDG\BBDG_HO_GIA_DINH_DS.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\BBDG\BBDG_HO_GIA_DINH_TSTC_KHAC.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\BBDG\BBDG_TO_CHUC_BDS.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\BBDG\BBDG_TO_CHUC_BDS_TSGL .docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\BBDG\BBDG_TO_CHUC_DS.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\BBDG\BBDG_TO_CHUC_TSTC_KHAC.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\DTC\DTC_CA_NHAN_BDS.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\DTC\DTC_CA_NHAN_DS.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\DTC\DTC_HO_GIA_DINH_BDS.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\DTC\DTC_HO_GIA_DINH_DS.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\DTC\DTC_HO_GIA_DINH_DS_C.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\DTC\DTC_HO_GIA_DINH_DS_V.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\DTC\DTC_TO_CHUC_DS.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\CA_NHAN_BDS_BTB_CA_NHAN.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\CA_NHAN_BDS_BTB_HO_GIA_DINH.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\CA_NHAN_BDS_CHINH_CHU.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\CA_NHAN_BDS_TSGL_BTB_CA_NHAN.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\CA_NHAN_BDS_TSGL_BTB_HO_GIA_DINH.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\CA_NHAN_BDS_TSGL_CHINH_CHU.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\CA_NHAN_DS_BTB_CA_NHAN.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\CA_NHAN_DS_BTB_HO_GIA_DINH.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\CA_NHAN_DS_CHINH_CHU.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\CA_NHAN_TSTC_KHAC_CHINH_CHU.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\HO_GIA_DINH_BDS_BTB_CA_NHAN.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\HO_GIA_DINH_BDS_BTB_HO_GIA_DINH.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\HO_GIA_DINH_BDS_CHINH_CHU.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\HO_GIA_DINH_BDS_TSGL_BTB_CA_NHAN.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\HO_GIA_DINH_BDS_TSGL_BTB_HO_GIA_DINH.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\HO_GIA_DINH_BDS_TSGL_CHINH_CHU.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\HO_GIA_DINH_DS_BTB_CA_NHAN.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\HO_GIA_DINH_DS_BTB_HO_GIA_DINH.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\HO_GIA_DINH_DS_CHINH_CHU.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\HO_GIA_DINH_TSTC_KHAC_CHINH_CHU.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\TO_CHUC_BDS_BTB_CA_NHAN.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\TO_CHUC_BDS_BTB_HO_GIA_DINH.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\TO_CHUC_BDS_CHINH_CHU.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\TO_CHUC_BDS_TSGL_BTB_CA_NHAN.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\TO_CHUC_BDS_TSGL_BTB_HO_GIA_DINH.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\TO_CHUC_BDS_TSGL_CHINH_CHU.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\TO_CHUC_DS_BTB_CA_NHAN.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\TO_CHUC_DS_BTB_HO_GIA_DINH.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\TO_CHUC_DS_CHINH_CHU.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\TO_CHUC_TSTC_KHAC_CHINH_CHU.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\DTC\DTC_CA_NHAN_BDS_TSGL_CTXD.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\DTC\DTC_CA_NHAN_BDS_TSGL_KHAC.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\DTC\DTC_CA_NHAN_BDS_TSGL_NHA.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\DTC\DTC_HO_GIA_DINH_BDS_TSGL_CTXD.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\DTC\DTC_HO_GIA_DINH_BDS_TSGL_KHAC.docx
+C:\Users\halon_000\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\DTC\DTC_HO_GIA_DINH_BDS_TSGL_NHA.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\AGRIBANKHD.exe.config
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.exe
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.pdb
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Icons\favicon.ico
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Icons\ms_icon_144x144_kHe_icon.ico
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Images\Tru_so_Agribank.jpg
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Images\Tru_so_Agribank_HD.JPG
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\BBDG\BBDG_CA_NHAN_BDS.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\BBDG\BBDG_CA_NHAN_BDS_TSGL.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\BBDG\BBDG_CA_NHAN_DS.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\BBDG\BBDG_CA_NHAN_TSTC_KHAC.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\BBDG\BBDG_HO_GIA_DINH_BDS.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\BBDG\BBDG_HO_GIA_DINH_BDS_TSGL.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\BBDG\BBDG_HO_GIA_DINH_DS.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\BBDG\BBDG_HO_GIA_DINH_TSTC_KHAC.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\BBDG\BBDG_TO_CHUC_BDS.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\BBDG\BBDG_TO_CHUC_BDS_TSGL .docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\BBDG\BBDG_TO_CHUC_DS.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\BBDG\BBDG_TO_CHUC_TSTC_KHAC.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\DTC\DTC_CA_NHAN_BDS.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\DTC\DTC_CA_NHAN_BDS_TSGL_CTXD.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\DTC\DTC_CA_NHAN_BDS_TSGL_KHAC.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\DTC\DTC_CA_NHAN_BDS_TSGL_NHA.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\DTC\DTC_CA_NHAN_DS.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\DTC\DTC_HO_GIA_DINH_BDS.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\DTC\DTC_HO_GIA_DINH_BDS_TSGL_CTXD.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\DTC\DTC_HO_GIA_DINH_BDS_TSGL_KHAC.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\DTC\DTC_HO_GIA_DINH_BDS_TSGL_NHA.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\DTC\DTC_HO_GIA_DINH_DS.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\DTC\DTC_HO_GIA_DINH_DS_C.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\DTC\DTC_HO_GIA_DINH_DS_V.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\DTC\DTC_TO_CHUC_DS.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\CA_NHAN_BDS_BTB_CA_NHAN.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\CA_NHAN_BDS_BTB_HO_GIA_DINH.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\CA_NHAN_BDS_CHINH_CHU.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\CA_NHAN_BDS_TSGL_BTB_CA_NHAN.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\CA_NHAN_BDS_TSGL_BTB_HO_GIA_DINH.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\CA_NHAN_BDS_TSGL_CHINH_CHU.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\CA_NHAN_DS_BTB_CA_NHAN.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\CA_NHAN_DS_BTB_HO_GIA_DINH.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\CA_NHAN_DS_CHINH_CHU.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\CA_NHAN_TSTC_KHAC_CHINH_CHU.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\HO_GIA_DINH_BDS_BTB_CA_NHAN.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\HO_GIA_DINH_BDS_BTB_HO_GIA_DINH.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\HO_GIA_DINH_BDS_CHINH_CHU.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\HO_GIA_DINH_BDS_TSGL_BTB_CA_NHAN.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\HO_GIA_DINH_BDS_TSGL_BTB_HO_GIA_DINH.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\HO_GIA_DINH_BDS_TSGL_CHINH_CHU.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\HO_GIA_DINH_DS_BTB_CA_NHAN.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\HO_GIA_DINH_DS_BTB_HO_GIA_DINH.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\HO_GIA_DINH_DS_CHINH_CHU.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\HO_GIA_DINH_TSTC_KHAC_CHINH_CHU.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\TO_CHUC_BDS_BTB_CA_NHAN.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\TO_CHUC_BDS_BTB_HO_GIA_DINH.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\TO_CHUC_BDS_CHINH_CHU.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\TO_CHUC_BDS_TSGL_BTB_CA_NHAN.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\TO_CHUC_BDS_TSGL_BTB_HO_GIA_DINH.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\TO_CHUC_BDS_TSGL_CHINH_CHU.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\TO_CHUC_DS_BTB_CA_NHAN.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\TO_CHUC_DS_BTB_HO_GIA_DINH.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\TO_CHUC_DS_CHINH_CHU.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTC\TO_CHUC_TSTC_KHAC_CHINH_CHU.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTD\CA_NHAN_DU_AN_DAU_TU.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTD\CA_NHAN_HAN_MUC_CO_BAO_LANH.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTD\CA_NHAN_HAN_MUC_KHONG_BAO_LANH.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTD\CA_NHAN_TUNG_LAN.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTD\HO_GIA_DINH_DU_AN_DAU_TU.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTD\HO_GIA_DINH_HAN_MUC_CO_BAO_LANH.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTD\HO_GIA_DINH_HAN_MUC_KHONG_BAO_LANH.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTD\HO_GIA_DINH_TUNG_LAN.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTD\TO_CHUC_DU_AN_DAU_TU.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTD\TO_CHUC_HAN_MUC_CO_BAO_LANH.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTD\TO_CHUC_HAN_MUC_KHONG_BAO_LANH.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\HDTD\TO_CHUC_TUNG_LAN.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\Word_template\TEST\TEST.docx
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\AGRIBANKHD.exe
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\AGRIBANKHD.pdb
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\DocX.dll
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Debug\TextBoxPrice.dll
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.csprojResolveAssemblyReference.cache
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmDang_nhap.resources
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmDoi_mat_khau.resources
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_tai_san_the_chap.resources
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_thong_tin_can_bo.resources
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_thong_tin_hop_dong_vay.resources
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_thong_tin_kh_vay.resources
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmTai_san_the_chap.resources
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmTao_ho_so_vay.resources
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmTest.resources
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmThong_tin_can_bo.resources
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmMain.resources
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmThong_tin_hop_dong_vay.resources
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmThong_tin_kh_vay.resources
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.Properties.Resources.resources
+C:\Users\ITAGRIBANK\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmGNN_DXGN_KBTT.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmKhai_bao_diem_giao_dich.resources
+F:\Work\Agribank\Thong tin khach hang\TTKH\bin\Debug\AGRIBANKHD.exe.config
+F:\Work\Agribank\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.exe
+F:\Work\Agribank\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.pdb
+F:\Work\Agribank\Thong tin khach hang\TTKH\bin\Debug\Icons\favicon.ico
+F:\Work\Agribank\Thong tin khach hang\TTKH\bin\Debug\Icons\ms_icon_144x144_kHe_icon.ico
+F:\Work\Agribank\Thong tin khach hang\TTKH\bin\Debug\Images\Tru_so_Agribank.jpg
+F:\Work\Agribank\Thong tin khach hang\TTKH\bin\Debug\Images\Tru_so_Agribank_HD.JPG
+F:\Work\Agribank\Thong tin khach hang\TTKH\bin\Debug\AGRIBANKHD.exe
+F:\Work\Agribank\Thong tin khach hang\TTKH\bin\Debug\AGRIBANKHD.pdb
+F:\Work\Agribank\Thong tin khach hang\TTKH\bin\Debug\DocX.dll
+F:\Work\Agribank\Thong tin khach hang\TTKH\bin\Debug\TextBoxPrice.dll
+F:\Work\Agribank\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.csprojResolveAssemblyReference.cache
+F:\Work\Agribank\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmDang_nhap.resources
+F:\Work\Agribank\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmDoi_mat_khau.resources
+F:\Work\Agribank\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmGNN_DXGN_KBTT.resources
+F:\Work\Agribank\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmKhai_bao_diem_giao_dich.resources
+F:\Work\Agribank\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_tai_san_the_chap.resources
+F:\Work\Agribank\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_thong_tin_can_bo.resources
+F:\Work\Agribank\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_thong_tin_hop_dong_vay.resources
+F:\Work\Agribank\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_thong_tin_kh_vay.resources
+F:\Work\Agribank\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmTai_san_the_chap.resources
+F:\Work\Agribank\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmTao_ho_so_vay.resources
+F:\Work\Agribank\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmTest.resources
+F:\Work\Agribank\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmThong_tin_can_bo.resources
+F:\Work\Agribank\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmMain.resources
+F:\Work\Agribank\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmThong_tin_hop_dong_vay.resources
+F:\Work\Agribank\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmThong_tin_kh_vay.resources
+F:\Work\Agribank\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.Properties.Resources.resources
+F:\Work\Agribank\Thong tin khach hang\TTKH\obj\Debug\AGRIBANKHD.csproj.GenerateResource.Cache
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\bin\Debug\AGRIBANKHD.exe.config
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.exe
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.pdb
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\bin\Debug\Icons\favicon.ico
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\bin\Debug\Icons\ms_icon_144x144_kHe_icon.ico
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\bin\Debug\Images\Tru_so_Agribank.jpg
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\bin\Debug\Images\Tru_so_Agribank_HD.JPG
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\bin\Debug\AGRIBANKHD.exe
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\bin\Debug\AGRIBANKHD.pdb
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\bin\Debug\DocX.dll
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\bin\Debug\TextBoxPrice.dll
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.csprojResolveAssemblyReference.cache
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmDang_nhap.resources
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmDoi_mat_khau.resources
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmGNN_DXGN_KBTT.resources
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmKhai_bao_diem_giao_dich.resources
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_tai_san_the_chap.resources
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_thong_tin_can_bo.resources
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_thong_tin_hop_dong_vay.resources
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_thong_tin_kh_vay.resources
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmPhatHanhTheGhiNo.resources
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmTai_san_the_chap.resources
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmTao_ho_so_vay.resources
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmTest.resources
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmThong_tin_can_bo.resources
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmMain.resources
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmThong_tin_hop_dong_vay.resources
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmThong_tin_kh_vay.resources
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.Properties.Resources.resources
+F:\Work\Agribank\ThongTinKhachHang\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.csproj.GenerateResource.Cache
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Debug\AGRIBANKHD.exe.config
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Debug\Icons\favicon.ico
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Debug\Icons\ms_icon_144x144_kHe_icon.ico
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Debug\Images\Tru_so_Agribank.jpg
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Debug\Images\Tru_so_Agribank_HD.JPG
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Debug\AGRIBANKHD.exe
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Debug\AGRIBANKHD.pdb
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Debug\DocX.dll
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Debug\TextBoxPrice.dll
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.csprojResolveAssemblyReference.cache
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmDang_nhap.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmDoi_mat_khau.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmGNN_DXGN_KBTT.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmKhai_bao_diem_giao_dich.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_tai_san_the_chap.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_thong_tin_can_bo.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_thong_tin_hop_dong_vay.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_thong_tin_kh_vay.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmPhatHanhTheGhiNo.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmTai_san_the_chap.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmTao_ho_so_vay.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmTest.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmThong_tin_can_bo.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmMain.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmThong_tin_hop_dong_vay.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmThong_tin_kh_vay.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.Properties.Resources.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.csproj.GenerateResource.Cache
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.exe
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.pdb
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Debug\Icons\favicon.ico
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Debug\Icons\ms_icon_144x144_kHe_icon.ico
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Debug\Images\Tru_so_Agribank.jpg
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Debug\Images\Tru_so_Agribank_HD.JPG
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Debug\Word_template\DV\GIAY_HEN.docx
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Debug\Word_template\DV\HOP_DONG.docx
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Debug\Word_template\DV\PHAT_HANH_LAI.docx
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Debug\Word_template\DV\PHAT_HANH_MOI.docx
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Debug\AGRIBANKHD.exe.config
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Debug\AGRIBANKHD.exe
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Debug\AGRIBANKHD.pdb
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Debug\DocX.dll
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Debug\TextBoxPrice.dll
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmDang_nhap.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmDoi_mat_khau.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmGNN_DXGN_KBTT.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmKhai_bao_diem_giao_dich.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_tai_san_the_chap.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_thong_tin_can_bo.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_thong_tin_hop_dong_vay.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmNhap_thong_tin_kh_vay.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmPhatHanhTheGhiNo.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmTai_san_the_chap.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmTao_ho_so_vay.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmTest.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmThong_tin_can_bo.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmMain.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmThong_tin_hop_dong_vay.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmThong_tin_kh_vay.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.Properties.Resources.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.csproj.GenerateResource.Cache
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.exe
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.pdb
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Debug\Word_template\DV\GIAY_HEN.docx
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Debug\Word_template\DV\HOP_DONG.docx
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Debug\Word_template\DV\PHAT_HANH_LAI.docx
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Debug\Word_template\DV\PHAT_HANH_MOI.docx
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Debug\AGRIBANKHD.GUI.frmLienHe.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Debug\BSS.exe.config

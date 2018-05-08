@@ -1,0 +1,6 @@
+﻿1. DV_NGUOIDAIDIEN
+2. Them cot UYQUYEN2 bang NHANVIEN
+3. Them bang ATM
+4. Them bang APPVERSION
+
+- Khong cho danh chu vao textbox frmKiemQuy

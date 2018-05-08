@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: AGRIBANKHD, Configuration: Debug Any CPU ------
+1>F:\Work\Agribank\ThongTinKhachHang\TTKH\GUI\frmPhatHanhTheGhiNo.cs(25,32,25,44): warning CS0169: The field 'AGRIBANKHD.GUI.frmPhatHanhTheGhiNo.nguoiDaiDien' is never used
+1>  AGRIBANKHD -> F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Debug\AGRIBANKHD.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

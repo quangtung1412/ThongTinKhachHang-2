@@ -1,0 +1,161 @@
+ERROR 2014-09-04 15:28:13,283 46392ms Info                   WriteToLog         - Error on module 'CommonLib.SQL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=288b9977118c9d6c'
+::::::::::::::::::::::::::::::::::::::::Violation of UNIQUE KEY constraint 'UK_Ads_THopDongQuangCao_MaHopDong'. Cannot insert duplicate key in object 'dbo.Ads_THopDongQuangCao'. The duplicate key value is (003).'
+
+======= $$$$$$$ =======
+ERROR 2014-09-08 14:24:34,340 274669ms Info                   WriteToLog         - Error on module 'CommonLib.SQL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=288b9977118c9d6c'
+::::::::::::::::::::::::::::::::::::::::Violation of UNIQUE KEY constraint 'UK_Lst_KhachHang_MaKhachHang'. Cannot insert duplicate key in object 'dbo.Lst_KhachHang'. The duplicate key value is (m2).'
+
+======= $$$$$$$ =======
+ERROR 2014-09-08 14:28:16,827 29277ms Info                   WriteToLog         - Error on module 'CommonLib.SQL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=288b9977118c9d6c'
+::::::::::::::::::::::::::::::::::::::::Violation of UNIQUE KEY constraint 'UK_Lst_KhachHang_MaKhachHang'. Cannot insert duplicate key in object 'dbo.Lst_KhachHang'. The duplicate key value is (m2).'
+
+======= $$$$$$$ =======
+ERROR 2014-09-08 14:28:37,783 50233ms Info                   WriteToLog         - Error on module 'CommonLib.SQL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=288b9977118c9d6c'
+::::::::::::::::::::::::::::::::::::::::Violation of UNIQUE KEY constraint 'UK_Lst_KhachHang_MaKhachHang'. Cannot insert duplicate key in object 'dbo.Lst_KhachHang'. The duplicate key value is (m2).'
+
+======= $$$$$$$ =======
+ERROR 2014-09-08 14:28:46,979 59429ms Info                   WriteToLog         - Error on module 'CommonLib.SQL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=288b9977118c9d6c'
+::::::::::::::::::::::::::::::::::::::::Violation of UNIQUE KEY constraint 'UK_Lst_KhachHang_MaKhachHang'. Cannot insert duplicate key in object 'dbo.Lst_KhachHang'. The duplicate key value is (m2).'
+
+======= $$$$$$$ =======
+ERROR 2014-09-08 14:31:03,281 32203ms Info                   WriteToLog         - Error on module 'CommonLib.SQL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=288b9977118c9d6c'
+::::::::::::::::::::::::::::::::::::::::The DELETE statement conflicted with the REFERENCE constraint "FK_Ads_TSanPham_Ads_tHopDongQuangCao_HopDongQuangCaoID". The conflict occurred in database "KTV.ADV", table "dbo.Ads_TSanPham", column 'HopDongQuangCaoID'.'
+
+======= $$$$$$$ =======
+ERROR 2014-09-08 14:38:25,402 20235ms Info                   WriteToLog         - Error on module 'CommonLib.SQL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=288b9977118c9d6c'
+::::::::::::::::::::::::::::::::::::::::The DELETE statement conflicted with the REFERENCE constraint "FK_Ads_TSanPham_Ads_tHopDongQuangCao_HopDongQuangCaoID". The conflict occurred in database "KTV.ADV", table "dbo.Ads_TSanPham", column 'HopDongQuangCaoID'.'
+
+======= $$$$$$$ =======
+ERROR 2014-09-08 15:10:41,663 80526ms Info                   WriteToLog         - Error on module 'CommonLib.SQL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=288b9977118c9d6c'
+::::::::::::::::::::::::::::::::::::::::System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at CommonLib.SQL.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at CommonLib.SQL.SqlHelper.ExecuteDataTable(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at CommonLib.SQL.AbstractDAO`1.AddItemReturnErrorMessage(T item)'
+
+======= $$$$$$$ =======
+ERROR 2014-09-08 15:11:10,277 109141ms Info                   WriteToLog         - Error on module 'CommonLib.SQL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=288b9977118c9d6c'
+::::::::::::::::::::::::::::::::::::::::System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at CommonLib.SQL.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at CommonLib.SQL.SqlHelper.ExecuteDataTable(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at CommonLib.SQL.AbstractDAO`1.AddItemReturnErrorMessage(T item)'
+
+======= $$$$$$$ =======
+ERROR 2014-09-08 15:59:09,175 279767ms Info                   WriteToLog         - Error on module 'KTV.ADV.Main, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+::::::::::::::::::::::::::::::::::::::::System.NullReferenceException: Object reference not set to an instance of an object.
+   at KTV.ADV.Main.ControlTemplates.DanhMuc.frmGiaQuangCaoTruyenHinhList.cboNgayApDung_SelectedIndexChanged(Object sender, PositionChangedEventArgs e) in d:\WORKS\DuAn\KTV.ADV\Sources\KTV.ADV\KTV.ADV.Main\ControlTemplates\DanhMuc\frmGiaQuangCaoTruyenHinhList.cs:line 371
+   at Telerik.WinControls.UI.RadDropDownList.OnSelectedIndexChanged(Object sender, Int32 newIndex)
+   at Telerik.WinControls.UI.RadDropDownList.element_SelectedIndexChanged(Object sender, PositionChangedEventArgs e)
+   at Telerik.WinControls.UI.RadDropDownListElement.OnSelectedIndexChanged(Object sender, PositionChangedEventArgs e)
+   at Telerik.WinControls.UI.RadDropDownListElement.NotifyOwner(PopupEditorNotificationData notificationData)
+   at Telerik.WinControls.UI.PopupEditorElement.listElement_SelectedIndexChanged(Object sender, PositionChangedEventArgs e)
+   at Telerik.WinControls.UI.RadListElement.OnSelectedIndexChanged(Int32 newIndex)
+   at Telerik.WinControls.UI.RadListElement.HandleItemsReset(NotifyCollectionChangedEventArgs args)
+   at Telerik.WinControls.UI.RadListElement.DataView_CollectionChanged(Object sender, NotifyCollectionChangedEventArgs args)
+   at Telerik.WinControls.Data.RadCollectionView`1.OnCollectionChanged(NotifyCollectionChangedEventArgs args)
+   at Telerik.WinControls.Data.RadDataView`1.RebuildData(Boolean notify)
+   at Telerik.WinControls.Data.RadDataView`1.RefreshOverride()
+   at Telerik.WinControls.Data.RadDataView`1.ProcessCollectionChanged(NotifyCollectionChangedEventArgs args)
+   at Telerik.WinControls.Data.RadCollectionView`1.source_CollectionChanged(Object sender, NotifyCollectionChangedEventArgs e)
+   at Telerik.WinControls.Data.NotifyCollectionChangedEventHandler.Invoke(Object sender, NotifyCollectionChangedEventArgs e)
+   at Telerik.WinControls.Data.RadListSource`1.OnCollectionChanged(NotifyCollectionChangedEventArgs e)
+   at Telerik.WinControls.Data.RadListSource`1.EndUpdate(Boolean notifyUpdates)
+   at Telerik.WinControls.Data.RadListSource`1.EndUpdate()
+   at Telerik.WinControls.UI.RadListElement.EndUpdate()
+   at Telerik.WinControls.UI.RadListElement.set_DataSource(Object value)
+   at Telerik.WinControls.UI.RadDropDownListElement.set_DataSource(Object value)
+   at Telerik.WinControls.UI.RadDropDownList.set_DataSource(Object value)
+   at KTV.ADV.Main.ControlTemplates.DanhMuc.frmGiaQuangCaoTruyenHinhList.BindCombobox() in d:\WORKS\DuAn\KTV.ADV\Sources\KTV.ADV\KTV.ADV.Main\ControlTemplates\DanhMuc\frmGiaQuangCaoTruyenHinhList.cs:line 62'
+
+======= $$$$$$$ =======
+ERROR 2014-09-08 15:59:22,498 293091ms Info                   WriteToLog         - Error on module 'KTV.ADV.Main, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+::::::::::::::::::::::::::::::::::::::::System.NullReferenceException: Object reference not set to an instance of an object.
+   at KTV.ADV.Main.ControlTemplates.DanhMuc.frmGiaQuangCaoTruyenHinhList.cboNgayApDung_SelectedIndexChanged(Object sender, PositionChangedEventArgs e) in d:\WORKS\DuAn\KTV.ADV\Sources\KTV.ADV\KTV.ADV.Main\ControlTemplates\DanhMuc\frmGiaQuangCaoTruyenHinhList.cs:line 371
+   at Telerik.WinControls.UI.RadDropDownList.OnSelectedIndexChanged(Object sender, Int32 newIndex)
+   at Telerik.WinControls.UI.RadDropDownList.element_SelectedIndexChanged(Object sender, PositionChangedEventArgs e)
+   at Telerik.WinControls.UI.RadDropDownListElement.OnSelectedIndexChanged(Object sender, PositionChangedEventArgs e)
+   at Telerik.WinControls.UI.RadDropDownListElement.NotifyOwner(PopupEditorNotificationData notificationData)
+   at Telerik.WinControls.UI.PopupEditorElement.listElement_SelectedIndexChanged(Object sender, PositionChangedEventArgs e)
+   at Telerik.WinControls.UI.RadListElement.OnSelectedIndexChanged(Int32 newIndex)
+   at Telerik.WinControls.UI.RadListElement.HandleItemsReset(NotifyCollectionChangedEventArgs args)
+   at Telerik.WinControls.UI.RadListElement.DataView_CollectionChanged(Object sender, NotifyCollectionChangedEventArgs args)
+   at Telerik.WinControls.Data.RadCollectionView`1.OnCollectionChanged(NotifyCollectionChangedEventArgs args)
+   at Telerik.WinControls.Data.RadDataView`1.RebuildData(Boolean notify)
+   at Telerik.WinControls.Data.RadDataView`1.RefreshOverride()
+   at Telerik.WinControls.Data.RadDataView`1.ProcessCollectionChanged(NotifyCollectionChangedEventArgs args)
+   at Telerik.WinControls.Data.RadCollectionView`1.source_CollectionChanged(Object sender, NotifyCollectionChangedEventArgs e)
+   at Telerik.WinControls.Data.NotifyCollectionChangedEventHandler.Invoke(Object sender, NotifyCollectionChangedEventArgs e)
+   at Telerik.WinControls.Data.RadListSource`1.OnCollectionChanged(NotifyCollectionChangedEventArgs e)
+   at Telerik.WinControls.Data.RadListSource`1.EndUpdate(Boolean notifyUpdates)
+   at Telerik.WinControls.Data.RadListSource`1.EndUpdate()
+   at Telerik.WinControls.UI.RadListElement.EndUpdate()
+   at Telerik.WinControls.UI.RadListElement.set_DataSource(Object value)
+   at Telerik.WinControls.UI.RadDropDownListElement.set_DataSource(Object value)
+   at Telerik.WinControls.UI.RadDropDownList.set_DataSource(Object value)
+   at KTV.ADV.Main.ControlTemplates.DanhMuc.frmGiaQuangCaoTruyenHinhList.BindCombobox() in d:\WORKS\DuAn\KTV.ADV\Sources\KTV.ADV\KTV.ADV.Main\ControlTemplates\DanhMuc\frmGiaQuangCaoTruyenHinhList.cs:line 62'
+
+======= $$$$$$$ =======
+ERROR 2014-09-08 21:53:35,729 382939ms Info                   Gian_CellBeginEdit - Error on module 'KTV.ADV.Main, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+::::::::::::::::::::::::::::::::::::::::System.InvalidCastException: Unable to cast object of type 'Telerik.WinControls.UI.RadDateTimeEditor' to type 'Telerik.WinControls.UI.RadMultiColumnComboBoxElement'.
+   at KTV.ADV.Main.ControlTemplates.NghiepVu.frmHopDongQuangCaoTruyenHinh.rgvDSThoiGian_CellBeginEdit(Object sender, GridViewCellCancelEventArgs e) in d:\WORKS\DuAn\KTV.ADV\Sources\KTV.ADV\KTV.ADV.Main\ControlTemplates\NghiepVu\frmHopDongQuangCaoTruyenHinh.cs:line 595'
+
+======= $$$$$$$ =======
+ERROR 2014-09-08 22:30:03,008 124085ms Info                   WriteToLog         - Error on module 'KTV.ADV.Main, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+::::::::::::::::::::::::::::::::::::::::System.InvalidCastException: Unable to cast object of type 'Telerik.WinControls.UI.RadDateTimeEditor' to type 'Telerik.WinControls.UI.RadMultiColumnComboBoxElement'.
+   at KTV.ADV.Main.ControlTemplates.NghiepVu.frmHopDongQuangCaoTruyenHinh.rgvDSThoiGian_CellBeginEdit(Object sender, GridViewCellCancelEventArgs e) in d:\WORKS\DuAn\KTV.ADV\Sources\KTV.ADV\KTV.ADV.Main\ControlTemplates\NghiepVu\frmHopDongQuangCaoTruyenHinh.cs:line 595'
+
+======= $$$$$$$ =======
+ERROR 2014-09-08 22:30:09,021 130098ms Info                   WriteToLog         - Error on module 'KTV.ADV.Main, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+::::::::::::::::::::::::::::::::::::::::System.InvalidCastException: Unable to cast object of type 'Telerik.WinControls.UI.RadDropDownListEditor' to type 'Telerik.WinControls.UI.RadMultiColumnComboBoxElement'.
+   at KTV.ADV.Main.ControlTemplates.NghiepVu.frmHopDongQuangCaoTruyenHinh.rgvDSThoiGian_CellBeginEdit(Object sender, GridViewCellCancelEventArgs e) in d:\WORKS\DuAn\KTV.ADV\Sources\KTV.ADV\KTV.ADV.Main\ControlTemplates\NghiepVu\frmHopDongQuangCaoTruyenHinh.cs:line 595'
+
+======= $$$$$$$ =======
+ERROR 2014-09-08 22:30:11,020 132097ms Info                   WriteToLog         - Error on module 'KTV.ADV.Main, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+::::::::::::::::::::::::::::::::::::::::System.InvalidCastException: Unable to cast object of type 'Telerik.WinControls.UI.RadDropDownListEditor' to type 'Telerik.WinControls.UI.RadMultiColumnComboBoxElement'.
+   at KTV.ADV.Main.ControlTemplates.NghiepVu.frmHopDongQuangCaoTruyenHinh.rgvDSThoiGian_CellBeginEdit(Object sender, GridViewCellCancelEventArgs e) in d:\WORKS\DuAn\KTV.ADV\Sources\KTV.ADV\KTV.ADV.Main\ControlTemplates\NghiepVu\frmHopDongQuangCaoTruyenHinh.cs:line 595'
+
+======= $$$$$$$ =======
+ERROR 2015-01-27 16:12:33,468  1941ms Info                   WriteToLog         - Error on module 'KTV.ADV.Bll, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+::::::::::::::::::::::::::::::::::::::::System.NullReferenceException: Object reference not set to an instance of an object.
+   at KTV.ADV.Bll.Sys_UserDAO.CheckUserloginAndChecksum(String& userID, String userLogin, String checkSum) in d:\WORKS\DuAn\KTV.ADV\Sources\KTV.ADV\KTV.ADV.Bll\KienNT\DAO\Sys_UserDAO.cs:line 100'
+
+======= $$$$$$$ =======
+ERROR 2015-01-27 16:14:31,687 120159ms Info                   WriteToLog         - Error on module 'KTV.ADV.Bll, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+::::::::::::::::::::::::::::::::::::::::System.NullReferenceException: Object reference not set to an instance of an object.
+   at KTV.ADV.Bll.Sys_UserDAO.CheckUserloginAndChecksum(String& userID, String userLogin, String checkSum) in d:\WORKS\DuAn\KTV.ADV\Sources\KTV.ADV\KTV.ADV.Bll\KienNT\DAO\Sys_UserDAO.cs:line 100'
+
+======= $$$$$$$ =======
+ERROR 2015-01-27 16:16:06,252   828ms Info                   WriteToLog         - Error on module 'KTV.ADV.Bll, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+::::::::::::::::::::::::::::::::::::::::System.NullReferenceException: Object reference not set to an instance of an object.
+   at KTV.ADV.Bll.Sys_UserDAO.CheckUserloginAndChecksum(String& userID, String userLogin, String checkSum) in d:\WORKS\DuAn\KTV.ADV\Sources\KTV.ADV\KTV.ADV.Bll\KienNT\DAO\Sys_UserDAO.cs:line 100'
+
+======= $$$$$$$ =======
+ERROR 2015-02-26 09:19:36,032  1737ms Info                   WriteToLog         - Error on module 'KTV.ADV.Bll, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+::::::::::::::::::::::::::::::::::::::::System.NullReferenceException: Object reference not set to an instance of an object.
+   at KTV.ADV.Bll.Sys_UserDAO.CheckUserloginAndChecksum(String& userID, String userLogin, String checkSum) in d:\WORKS\DuAn\KTV.ADV\Sources\KTV.ADV\KTV.ADV.Bll\KienNT\DAO\Sys_UserDAO.cs:line 100'
+
+======= $$$$$$$ =======
+ERROR 2015-02-26 09:20:11,243 36948ms Info                   WriteToLog         - Error on module 'KTV.ADV.Bll, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+::::::::::::::::::::::::::::::::::::::::System.NullReferenceException: Object reference not set to an instance of an object.
+   at KTV.ADV.Bll.Sys_UserDAO.CheckUserloginAndChecksum(String& userID, String userLogin, String checkSum) in d:\WORKS\DuAn\KTV.ADV\Sources\KTV.ADV\KTV.ADV.Bll\KienNT\DAO\Sys_UserDAO.cs:line 100'
+
+======= $$$$$$$ =======

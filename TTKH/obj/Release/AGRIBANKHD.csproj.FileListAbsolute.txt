@@ -1,0 +1,236 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Release\AGRIBANKHD.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Release\AGRIBANKHD.GUI.frmNhap_tai_san_the_chap.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Release\AGRIBANKHD.GUI.frmNhap_thong_tin_can_bo.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Release\AGRIBANKHD.GUI.frmNhap_thong_tin_hop_dong_vay.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Release\AGRIBANKHD.GUI.frmNhap_thong_tin_kh_vay.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Release\AGRIBANKHD.GUI.frmTai_san_the_chap.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Release\AGRIBANKHD.GUI.frmThong_tin_can_bo.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Release\AGRIBANKHD.GUI.frmMain.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Release\AGRIBANKHD.GUI.frmThong_tin_hop_dong_vay.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Release\AGRIBANKHD.GUI.frmThong_tin_kh_vay.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Release\AGRIBANKHD.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Release\AGRIBANKHD.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\AGRIBANKHD.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\AGRIBANKHD.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\AGRIBANKHD.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\DocX.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Release\AGRIBANKHD.GUI.frmDang_nhap.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Release\AGRIBANKHD.GUI.frmTao_ho_so_vay.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Release\AGRIBANKHD.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Release\AGRIBANKHD.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Icons\favicon.ico
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Icons\ms_icon_144x144_kHe_icon.ico
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Images\Tru_so_Agribank.jpg
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Images\Tru_so_Agribank_HD.JPG
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\BBDG\CA_NHAN_BBDG_BDS_CN_QSD.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\BBDG\CA_NHAN_BBDG_BDS_CN_QSD_TSGL.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\BBDG\CA_NHAN_BBDG_DS_CN.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\BBDG\CA_NHAN_BBDG_TSK_CN.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\BBDG\HO_GIA_DINH_BBDG_BDS_CHC_QSD.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\BBDG\HO_GIA_DINH_BBDG_BDS_CHC_QSD_TSGL.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\BBDG\HO_GIA_DINH_BBDG_BDS_CHV_QSD.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\BBDG\HO_GIA_DINH_BBDG_BDS_CHV_QSD_TSGL.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\BBDG\HO_GIA_DINH_BBDG_DS_CHC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\BBDG\HO_GIA_DINH_BBDG_DS_CHV.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\BBDG\HO_GIA_DINH_BBDG_TSK_CHC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\BBDG\HO_GIA_DINH_BBDG_TSK_CHV.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\BBDG\TO_CHUC_BBDG_BDS_TC_QSD.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\BBDG\TO_CHUC_BBDG_BDS_TC_QSD_TSGL.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\BBDG\TO_CHUC_BBDG_DS_TC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\BBDG\TO_CHUC_BBDG_TSK_TC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\DTC\HO_GIA_DINH_DTC_BDS_CHC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\DTC\HO_GIA_DINH_DTC_BDS_CHV.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\DTC\HO_GIA_DINH_DTC_BDS_CN.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\DTC\HO_GIA_DINH_DTC_BDS_TC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\DXGN\TO_CHUC_DE_XUAT_GIAI_NGAN.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\CA_NHAN_HDTC_BDS_QSD_CN_TSBTB_CHC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\CA_NHAN_HDTC_BDS_QSD_CN_TSBTB_CHV.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\CA_NHAN_HDTC_BDS_QSD_CN_TSBTB_CN.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\CA_NHAN_HDTC_BDS_QSD_CN_TSBTB_TC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\CA_NHAN_HDTC_BDS_QSD_TSCC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\CA_NHAN_HDTC_BDS_QSD_TSGL_CN_TSBTB_CHC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\CA_NHAN_HDTC_BDS_QSD_TSGL_CN_TSBTB_CHV.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\CA_NHAN_HDTC_BDS_QSD_TSGL_CN_TSBTB_CN.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\CA_NHAN_HDTC_BDS_QSD_TSGL_CN_TSBTB_TC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\CA_NHAN_HDTC_BDS_QSD_TSGL_TSCC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\CA_NHAN_HDTC_DS_CN_TSBTB_CHC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\CA_NHAN_HDTC_DS_CN_TSBTB_CHV.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\CA_NHAN_HDTC_DS_CN_TSBTB_CN.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\CA_NHAN_HDTC_DS_CN_TSBTB_TC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\CA_NHAN_HDTC_DS_TSCC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\CA_NHAN_HDTC_TSK_CN_TSBTB_CHC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\CA_NHAN_HDTC_TSK_CN_TSBTB_CHV.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\CA_NHAN_HDTC_TSK_CN_TSBTB_CN.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\CA_NHAN_HDTC_TSK_CN_TSBTB_TC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\CA_NHAN_HDTC_TSK_TSCC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_BDS_QSD_CHC_TSBTB_CHC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_BDS_QSD_CHC_TSBTB_CHV.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_BDS_QSD_CHC_TSBTB_CN.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_BDS_QSD_CHC_TSBTB_TC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_BDS_QSD_CHC_TSCC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_BDS_QSD_CHV_TSBTB_CHC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_BDS_QSD_CHV_TSBTB_CHV.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_BDS_QSD_CHV_TSBTB_CN.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_BDS_QSD_CHV_TSBTB_TC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_BDS_QSD_CHV_TSCC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_BDS_QSD_TSGL_CHC_TSBTB_CHC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_BDS_QSD_TSGL_CHC_TSBTB_CHV.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_BDS_QSD_TSGL_CHC_TSBTB_CN.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_BDS_QSD_TSGL_CHC_TSBTB_TC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_BDS_QSD_TSGL_CHC_TSCC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_BDS_QSD_TSGL_CHV_TSBTB_CHC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_BDS_QSD_TSGL_CHV_TSBTB_CHV.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_BDS_QSD_TSGL_CHV_TSBTB_CN.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_BDS_QSD_TSGL_CHV_TSBTB_TC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_BDS_QSD_TSGL_CHV_TSCC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_DS_CHC_TSBTB_CHC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_DS_CHC_TSBTB_CHV.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_DS_CHC_TSBTB_CN.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_DS_CHC_TSBTB_TC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_DS_CHC_TSCC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_DS_CHV_TSBTB_CHC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_DS_CHV_TSBTB_CHV.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_DS_CHV_TSBTB_CN.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_DS_CHV_TSBTB_TC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_DS_CHV_TSCC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_TSK_CHC_TSBTB_CHC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_TSK_CHC_TSBTB_CHV.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_TSK_CHC_TSBTB_CN.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_TSK_CHC_TSBTB_TC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_TSK_CHC_TSCC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_TSK_CHV_TSBTB_CHC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_TSK_CHV_TSBTB_CHV.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_TSK_CHV_TSBTB_CN.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_TSK_CHV_TSBTB_TC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\HO_GIA_DINH_HDTC_TSK_CHV_TSCC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\TO_CHUC_HDTC_BDS_QSD_TC_TSBTB_CHC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\TO_CHUC_HDTC_BDS_QSD_TC_TSBTB_CHV.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\TO_CHUC_HDTC_BDS_QSD_TC_TSBTB_CN.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\TO_CHUC_HDTC_BDS_QSD_TC_TSBTB_TC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\TO_CHUC_HDTC_BDS_QSD_TSCC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\TO_CHUC_HDTC_BDS_QSD_TSGL_TC_TSBTB_CHC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\TO_CHUC_HDTC_BDS_QSD_TSGL_TC_TSBTB_CHV.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\TO_CHUC_HDTC_BDS_QSD_TSGL_TC_TSBTB_CN.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\TO_CHUC_HDTC_BDS_QSD_TSGL_TC_TSBTB_TC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\TO_CHUC_HDTC_BDS_QSD_TSGL_TSCC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\TO_CHUC_HDTC_DS_TC_TSBTB_CHC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\TO_CHUC_HDTC_DS_TC_TSBTB_CHV.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\TO_CHUC_HDTC_DS_TC_TSBTB_CN.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\TO_CHUC_HDTC_DS_TC_TSBTB_TC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\TO_CHUC_HDTC_DS_TSCC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\TO_CHUC_HDTC_TSK_TC_TSBTB_CHC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\TO_CHUC_HDTC_TSK_TC_TSBTB_CHV.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\TO_CHUC_HDTC_TSK_TC_TSBTB_CN.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\TO_CHUC_HDTC_TSK_TC_TSBTB_TC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTC\TO_CHUC_HDTC_TSK_TSCC.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Release\AGRIBANKHD.GUI.frmDoi_mat_khau.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTD\CA_NHAN_DU_AN_DAU_TU.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTD\CA_NHAN_HAN_MUC_CO_BAO_LANH.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTD\CA_NHAN_HAN_MUC_KHONG_BAO_LANH.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTD\CA_NHAN_TUNG_LAN.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTD\HO_GIA_DINH_DU_AN_DAU_TU.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTD\HO_GIA_DINH_HAN_MUC_CO_BAO_LANH.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTD\HO_GIA_DINH_HAN_MUC_KHONG_BAO_LANH.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTD\HO_GIA_DINH_TUNG_LAN.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTD\TO_CHUC_DU_AN_DAU_TU.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTD\TO_CHUC_HAN_MUC_CO_BAO_LANH.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTD\TO_CHUC_HAN_MUC_KHONG_BAO_LANH.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\Word_template\HDTD\TO_CHUC_TUNG_LAN.docx
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\bin\Release\TextBoxPrice.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Thong tin khach hang\TTKH\obj\Release\AGRIBANKHD.GUI.frmTest.resources
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Release\BSS.exe.config
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Release\BSS.exe
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Release\BSS.pdb
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Release\Icons\favicon.ico
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Release\Icons\ms_icon_144x144_kHe_icon.ico
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Release\Images\Tru_so_Agribank.jpg
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Release\Images\Tru_so_Agribank_HD.JPG
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Release\Word_template\DV\GIAY_HEN.docx
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Release\Word_template\DV\PHAT_HANH_LAI.docx
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Release\Word_template\DV\PHAT_HANH_MOI.docx
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Release\BSS.exe
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Release\BSS.pdb
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Release\DocX.dll
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Release\TextBoxPrice.dll
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmDang_nhap.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmDoi_mat_khau.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmLienHe.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmPhatHanhTheGhiNo.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmMain.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.Properties.Resources.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.csproj.GenerateResource.Cache
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmQuanLyThe.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmThongTinThe.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.csprojResolveAssemblyReference.cache
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmKiemQuy.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmTiepQuy.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmQLKiemTiepQuy.resources
+D:\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmThanhLapToVanChuyen.resources
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Release\ExcelDataReader.DataSet.dll
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Release\ExcelDataReader.dll
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Release\ExcelDataReader.xml
+D:\Agribank\ThongTinKhachHang\TTKH\bin\Release\ExcelDataReader.DataSet.xml
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Release\Icons\favicon.ico
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Release\Icons\ms_icon_144x144_kHe_icon.ico
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Release\Images\Tru_so_Agribank.jpg
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Release\Images\Tru_so_Agribank_HD.JPG
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Release\Word_template\DV\GIAY_HEN.docx
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Release\Word_template\DV\PHAT_HANH_LAI.docx
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Release\Word_template\DV\PHAT_HANH_MOI.docx
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Release\BSS.exe.config
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Release\BSS.exe
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Release\BSS.pdb
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Release\DocX.dll
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Release\ExcelDataReader.DataSet.dll
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Release\ExcelDataReader.dll
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Release\TextBoxPrice.dll
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Release\ExcelDataReader.xml
+F:\Work\Agribank\ThongTinKhachHang\TTKH\bin\Release\ExcelDataReader.DataSet.xml
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmDang_nhap.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmDoi_mat_khau.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmLienHe.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmPhatHanhTheGhiNo.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmQLKiemTiepQuy.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmQuanLyThe.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmThanhLapToVanChuyen.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmThongTinThe.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmMain.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmKiemQuy.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmTiepQuy.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.Properties.Resources.resources
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.csproj.GenerateResource.Cache
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Release\BSS.exe
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Release\BSS.pdb
+F:\Work\Agribank\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.csprojResolveAssemblyReference.cache
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\bin\Release\BSS.exe.config
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\obj\Release\BSS.exe
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\obj\Release\BSS.pdb
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\bin\Release\Icons\favicon.ico
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\bin\Release\Icons\ms_icon_144x144_kHe_icon.ico
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\bin\Release\Images\Tru_so_Agribank.jpg
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\bin\Release\Images\Tru_so_Agribank_HD.JPG
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\bin\Release\Word_template\DV\GIAY_HEN.docx
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\bin\Release\Word_template\DV\PHAT_HANH_LAI.docx
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\bin\Release\Word_template\DV\PHAT_HANH_MOI.docx
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\bin\Release\BSS.exe
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\bin\Release\BSS.pdb
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\bin\Release\DocX.dll
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\bin\Release\ExcelDataReader.DataSet.dll
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\bin\Release\ExcelDataReader.dll
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\bin\Release\TextBoxPrice.dll
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\bin\Release\ExcelDataReader.xml
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\bin\Release\ExcelDataReader.DataSet.xml
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\obj\Release\AGRIBANKHD.csprojResolveAssemblyReference.cache
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\obj\Release\AGRIBANKHD.GUI.frmDang_nhap.resources
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\obj\Release\AGRIBANKHD.GUI.frmDoi_mat_khau.resources
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\obj\Release\AGRIBANKHD.GUI.frmLienHe.resources
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\obj\Release\AGRIBANKHD.GUI.frmPhatHanhTheGhiNo.resources
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\obj\Release\AGRIBANKHD.GUI.frmQLKiemTiepQuy.resources
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\obj\Release\AGRIBANKHD.GUI.frmQuanLyThe.resources
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\obj\Release\AGRIBANKHD.GUI.frmThanhLapToVanChuyen.resources
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\obj\Release\AGRIBANKHD.GUI.frmThongTinThe.resources
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\obj\Release\AGRIBANKHD.GUI.frmMain.resources
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\obj\Release\AGRIBANKHD.GUI.frmKiemQuy.resources
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\obj\Release\AGRIBANKHD.GUI.frmTiepQuy.resources
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\obj\Release\AGRIBANKHD.Properties.Resources.resources
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang-9ad0dccedee8b8ecb304c175e8c03be06ced78da\TTKH\obj\Release\AGRIBANKHD.csproj.GenerateResource.Cache
