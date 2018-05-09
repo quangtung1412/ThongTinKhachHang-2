@@ -265,3 +265,35 @@ F:\Work\Agribank\ThongTinKhachHang-2\TTKH\obj\Release\AGRIBANKHD.Properties.Reso
 F:\Work\Agribank\ThongTinKhachHang-2\TTKH\obj\Release\AGRIBANKHD.csproj.GenerateResource.Cache
 F:\Work\Agribank\ThongTinKhachHang-2\TTKH\obj\Release\BSS.exe
 F:\Work\Agribank\ThongTinKhachHang-2\TTKH\obj\Release\BSS.pdb
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\bin\Release\BSS.exe.config
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\obj\Release\BSS.exe
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\obj\Release\BSS.pdb
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\bin\Release\Icons\favicon.ico
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\bin\Release\Icons\ms_icon_144x144_kHe_icon.ico
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\bin\Release\Images\Tru_so_Agribank.jpg
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\bin\Release\Images\Tru_so_Agribank_HD.JPG
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\bin\Release\Word_template\DV\GIAY_HEN.docx
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\bin\Release\Word_template\DV\PHAT_HANH_LAI.docx
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\bin\Release\Word_template\DV\PHAT_HANH_MOI.docx
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\bin\Release\BSS.exe
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\bin\Release\BSS.pdb
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\bin\Release\DocX.dll
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\bin\Release\ExcelDataReader.DataSet.dll
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\bin\Release\ExcelDataReader.dll
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\bin\Release\TextBoxPrice.dll
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\bin\Release\ExcelDataReader.xml
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\bin\Release\ExcelDataReader.DataSet.xml
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.csprojResolveAssemblyReference.cache
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmDang_nhap.resources
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmDoi_mat_khau.resources
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmLienHe.resources
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmPhatHanhTheGhiNo.resources
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmQLKiemTiepQuy.resources
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmQuanLyThe.resources
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmThanhLapToVanChuyen.resources
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmThongTinThe.resources
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmMain.resources
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmKiemQuy.resources
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.GUI.frmTiepQuy.resources
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.Properties.Resources.resources
+D:\Agribank\ThongTinKhachHang 08052018\ThongTinKhachHang\TTKH\obj\Release\AGRIBANKHD.csproj.GenerateResource.Cache

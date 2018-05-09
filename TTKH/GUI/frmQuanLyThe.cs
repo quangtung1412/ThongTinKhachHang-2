@@ -115,14 +115,7 @@ namespace AGRIBANKHD.GUI
 
         private void dgvThongTinThe_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
-            if (e.RowIndex == -1) return;
-            frmThongTinThe frm = new frmThongTinThe(
-                dgvThongTinThe.Rows[e.RowIndex].Cells[2].Value.ToString(),
-                dgvThongTinThe.Rows[e.RowIndex].Cells[4].Value.ToString()
-                );
-            //frm.MdiParent = this;
-            frm.Show();
-            frm.BringToFront();
+            ShowThongTinThe();
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -192,16 +185,28 @@ namespace AGRIBANKHD.GUI
             }
         }
 
+        void ShowThongTinThe()
+        {
+            try
+            {
+                int rowIndex = dgvThongTinThe.SelectedRows[0].Index;
+                frmThongTinThe frm = new frmThongTinThe(
+                    dgvThongTinThe.Rows[rowIndex].Cells[2].Value.ToString(),
+                    dgvThongTinThe.Rows[rowIndex].Cells[4].Value.ToString()
+                    );
+                //frm.MdiParent = this;
+                frm.Show();
+                frm.BringToFront();
+            }
+            catch
+            {
+
+            }
+        }
+
         private void btnSua_Click(object sender, EventArgs e)
         {
-            int rowIndex = dgvThongTinThe.SelectedRows[0].Index;
-            frmThongTinThe frm = new frmThongTinThe(
-                dgvThongTinThe.Rows[rowIndex].Cells[2].Value.ToString(),
-                dgvThongTinThe.Rows[rowIndex].Cells[4].Value.ToString()
-                );
-            //frm.MdiParent = this;
-            frm.Show();
-            frm.BringToFront();
+            ShowThongTinThe();
         }
 
         private void btnDeleteThe_Click(object sender, EventArgs e)
@@ -240,7 +245,9 @@ namespace AGRIBANKHD.GUI
                         TheDAL.XoaThe_TheoSoThe(soThe);
                     }
                     MessageBox.Show("Xóa thẻ "+ soThe + " thành công!","Thông báo", MessageBoxButtons.OK);
-                    TimKiem_TheoThongTin();
+                    if (tcrlQuanLyThe.SelectedIndex == 1)
+                        TimKiem_TheoThongTin();
+                    else TimKiem_TheoNgay();
                 }
                 catch
                 {

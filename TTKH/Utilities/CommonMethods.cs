@@ -22,8 +22,8 @@ namespace AGRIBANKHD.Utilities
 {
     class CommonMethods 
     {
-        //private static string server_add = "127.0.0.1";
-        private static string server_add = "10.14.0.12";
+        private static string server_add = "127.0.0.1";
+        //private static string server_add = "10.14.0.12";
 
         //Xóa dữ liệu toàn bộ các textbox
         public static void ClearTextBoxes(Control control, string[] name_of_textbox)
