@@ -435,6 +435,7 @@
             // 
             // cbGiamSat2
             // 
+            this.cbGiamSat2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cbGiamSat2.FormattingEnabled = true;
             this.cbGiamSat2.Location = new System.Drawing.Point(71, 97);
             this.cbGiamSat2.Name = "cbGiamSat2";
@@ -452,6 +453,7 @@
             // 
             // cbGiamSat1
             // 
+            this.cbGiamSat1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cbGiamSat1.FormattingEnabled = true;
             this.cbGiamSat1.Location = new System.Drawing.Point(71, 70);
             this.cbGiamSat1.Name = "cbGiamSat1";
@@ -460,6 +462,7 @@
             // 
             // cbToTruong
             // 
+            this.cbToTruong.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cbToTruong.FormattingEnabled = true;
             this.cbToTruong.Location = new System.Drawing.Point(71, 43);
             this.cbToTruong.Name = "cbToTruong";

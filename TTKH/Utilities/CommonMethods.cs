@@ -22,8 +22,8 @@ namespace AGRIBANKHD.Utilities
 {
     class CommonMethods 
     {
-        private static string server_add = "127.0.0.1";
-        //private static string server_add = "10.14.0.12";
+        //private static string server_add = "127.0.0.1";
+        private static string server_add = "10.14.0.12";
 
         //Xóa dữ liệu toàn bộ các textbox
         public static void ClearTextBoxes(Control control, string[] name_of_textbox)
@@ -503,6 +503,7 @@ namespace AGRIBANKHD.Utilities
         //Chuyển số sang chữ
         public static string ChuyenSoSangChu(string number)
         {
+            if (string.IsNullOrEmpty(number)) return "";
             string[] strTachPhanSauDauPhay;
             if (number.Contains('.') || number.Contains(','))
             {
@@ -658,6 +659,7 @@ namespace AGRIBANKHD.Utilities
 
         public static string ThemDauPhay(string source)
         {
+            if (string.IsNullOrEmpty(source)) return "";
             string goal = source;
             int index = 0;
             if (source.Length <= 3)

@@ -33,7 +33,7 @@ namespace AGRIBANKHD.GUI
             {
                 testToolStripMenuItem.Visible = false;
             }
-            Text = "PHẦN MỀM HỖ TRỢ NGHIỆP VỤ - v" + Application.ProductVersion + " - AGRIBANKHD - MAIN";
+            Text = "PHẦN MỀM HỖ TRỢ NGHIỆP VỤ - v" + Application.ProductVersion + " - AGRIBANKHD - "+ AGRIBANKHD.Utilities.Thong_tin_dang_nhap.ma_cn;
         }
 
         private void thoátToolStripMenuItem_Click(object sender, EventArgs e)

@@ -46,9 +46,6 @@
             this.label10 = new System.Windows.Forms.Label();
             this.btnLuu = new System.Windows.Forms.Button();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
-            this.txtTimeIPCAS3 = new System.Windows.Forms.MaskedTextBox();
-            this.txtTimeIPCAS2 = new System.Windows.Forms.MaskedTextBox();
-            this.txtTimeIPCAS1 = new System.Windows.Forms.MaskedTextBox();
             this.label8 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.txtGhiChuIPCAS3 = new System.Windows.Forms.TextBox();
@@ -86,13 +83,11 @@
             this.txtFIMIEnd200 = new System.Windows.Forms.TextBox();
             this.txtFIMIEnd100 = new System.Windows.Forms.TextBox();
             this.txtFIMIEnd50 = new System.Windows.Forms.TextBox();
-            this.txtTimeFIMIEnd = new System.Windows.Forms.MaskedTextBox();
             this.groupBox7 = new System.Windows.Forms.GroupBox();
             this.txtFIMIStart200 = new System.Windows.Forms.TextBox();
             this.txtFIMIStart500 = new System.Windows.Forms.TextBox();
             this.txtFIMIStart100 = new System.Windows.Forms.TextBox();
             this.txtFIMIStart50 = new System.Windows.Forms.TextBox();
-            this.txtTimeFIMIStart = new System.Windows.Forms.MaskedTextBox();
             this.label22 = new System.Windows.Forms.Label();
             this.label21 = new System.Windows.Forms.Label();
             this.label20 = new System.Windows.Forms.Label();
@@ -109,12 +104,17 @@
             this.label15 = new System.Windows.Forms.Label();
             this.saveFileKiemQuy = new System.Windows.Forms.SaveFileDialog();
             this.groupBox14 = new System.Windows.Forms.GroupBox();
+            this.dtpTuNgay = new System.Windows.Forms.DateTimePicker();
             this.cbATMID = new System.Windows.Forms.ComboBox();
             this.label26 = new System.Windows.Forms.Label();
             this.dtpDenNgay = new System.Windows.Forms.DateTimePicker();
             this.label25 = new System.Windows.Forms.Label();
             this.label24 = new System.Windows.Forms.Label();
-            this.dtpTuNgay = new System.Windows.Forms.DateTimePicker();
+            this.dtpTruocCO = new System.Windows.Forms.DateTimePicker();
+            this.dtpCO = new System.Windows.Forms.DateTimePicker();
+            this.dtpCI = new System.Windows.Forms.DateTimePicker();
+            this.dtpFIMISC = new System.Windows.Forms.DateTimePicker();
+            this.dtpFIMICE = new System.Windows.Forms.DateTimePicker();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox4.SuspendLayout();
@@ -161,7 +161,7 @@
             // btnThem
             // 
             this.btnThem.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnThem.Location = new System.Drawing.Point(262, 16);
+            this.btnThem.Location = new System.Drawing.Point(376, 15);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(75, 23);
             this.btnThem.TabIndex = 3;
@@ -181,11 +181,12 @@
             // 
             // cbCanBo
             // 
+            this.cbCanBo.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cbCanBo.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cbCanBo.FormattingEnabled = true;
             this.cbCanBo.Location = new System.Drawing.Point(116, 17);
             this.cbCanBo.Name = "cbCanBo";
-            this.cbCanBo.Size = new System.Drawing.Size(140, 21);
+            this.cbCanBo.Size = new System.Drawing.Size(254, 21);
             this.cbCanBo.TabIndex = 0;
             // 
             // label2
@@ -307,9 +308,9 @@
             // 
             // groupBox4
             // 
-            this.groupBox4.Controls.Add(this.txtTimeIPCAS3);
-            this.groupBox4.Controls.Add(this.txtTimeIPCAS2);
-            this.groupBox4.Controls.Add(this.txtTimeIPCAS1);
+            this.groupBox4.Controls.Add(this.dtpCI);
+            this.groupBox4.Controls.Add(this.dtpCO);
+            this.groupBox4.Controls.Add(this.dtpTruocCO);
             this.groupBox4.Controls.Add(this.label8);
             this.groupBox4.Controls.Add(this.label7);
             this.groupBox4.Controls.Add(this.txtGhiChuIPCAS3);
@@ -329,42 +330,6 @@
             this.groupBox4.TabIndex = 3;
             this.groupBox4.TabStop = false;
             this.groupBox4.Text = "IPCAS (VND)";
-            // 
-            // txtTimeIPCAS3
-            // 
-            this.txtTimeIPCAS3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtTimeIPCAS3.Location = new System.Drawing.Point(173, 83);
-            this.txtTimeIPCAS3.Mask = "00:00";
-            this.txtTimeIPCAS3.Name = "txtTimeIPCAS3";
-            this.txtTimeIPCAS3.Size = new System.Drawing.Size(43, 20);
-            this.txtTimeIPCAS3.TabIndex = 11;
-            this.txtTimeIPCAS3.Text = "1200";
-            this.txtTimeIPCAS3.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
-            this.txtTimeIPCAS3.ValidatingType = typeof(System.DateTime);
-            // 
-            // txtTimeIPCAS2
-            // 
-            this.txtTimeIPCAS2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtTimeIPCAS2.Location = new System.Drawing.Point(173, 57);
-            this.txtTimeIPCAS2.Mask = "00:00";
-            this.txtTimeIPCAS2.Name = "txtTimeIPCAS2";
-            this.txtTimeIPCAS2.Size = new System.Drawing.Size(43, 20);
-            this.txtTimeIPCAS2.TabIndex = 8;
-            this.txtTimeIPCAS2.Text = "1200";
-            this.txtTimeIPCAS2.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
-            this.txtTimeIPCAS2.ValidatingType = typeof(System.DateTime);
-            // 
-            // txtTimeIPCAS1
-            // 
-            this.txtTimeIPCAS1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtTimeIPCAS1.Location = new System.Drawing.Point(173, 31);
-            this.txtTimeIPCAS1.Mask = "00:00";
-            this.txtTimeIPCAS1.Name = "txtTimeIPCAS1";
-            this.txtTimeIPCAS1.Size = new System.Drawing.Size(43, 20);
-            this.txtTimeIPCAS1.TabIndex = 5;
-            this.txtTimeIPCAS1.Text = "1200";
-            this.txtTimeIPCAS1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
-            this.txtTimeIPCAS1.ValidatingType = typeof(System.DateTime);
             // 
             // label8
             // 
@@ -398,7 +363,7 @@
             this.txtGhiChuIPCAS2.Location = new System.Drawing.Point(301, 57);
             this.txtGhiChuIPCAS2.Name = "txtGhiChuIPCAS2";
             this.txtGhiChuIPCAS2.Size = new System.Drawing.Size(159, 20);
-            this.txtGhiChuIPCAS2.TabIndex = 10;
+            this.txtGhiChuIPCAS2.TabIndex = 12;
             // 
             // label6
             // 
@@ -415,7 +380,7 @@
             this.txtGhiChuIPCAS1.Location = new System.Drawing.Point(301, 31);
             this.txtGhiChuIPCAS1.Name = "txtGhiChuIPCAS1";
             this.txtGhiChuIPCAS1.Size = new System.Drawing.Size(159, 20);
-            this.txtGhiChuIPCAS1.TabIndex = 7;
+            this.txtGhiChuIPCAS1.TabIndex = 11;
             // 
             // txtSoDuIPCAS3
             // 
@@ -423,7 +388,7 @@
             this.txtSoDuIPCAS3.Location = new System.Drawing.Point(220, 83);
             this.txtSoDuIPCAS3.Name = "txtSoDuIPCAS3";
             this.txtSoDuIPCAS3.Size = new System.Drawing.Size(75, 20);
-            this.txtSoDuIPCAS3.TabIndex = 12;
+            this.txtSoDuIPCAS3.TabIndex = 10;
             this.txtSoDuIPCAS3.Text = "0";
             this.txtSoDuIPCAS3.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.txtSoDuIPCAS3.TextChanged += new System.EventHandler(this.txtSoDuIPCAS3_TextChanged);
@@ -454,7 +419,7 @@
             this.txtSoDuIPCAS1.Location = new System.Drawing.Point(220, 31);
             this.txtSoDuIPCAS1.Name = "txtSoDuIPCAS1";
             this.txtSoDuIPCAS1.Size = new System.Drawing.Size(75, 20);
-            this.txtSoDuIPCAS1.TabIndex = 6;
+            this.txtSoDuIPCAS1.TabIndex = 8;
             this.txtSoDuIPCAS1.Text = "0";
             this.txtSoDuIPCAS1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.txtSoDuIPCAS1.TextChanged += new System.EventHandler(this.txtSoDuIPCAS1_TextChanged);
@@ -714,11 +679,11 @@
             // 
             // groupBox8
             // 
+            this.groupBox8.Controls.Add(this.dtpFIMICE);
             this.groupBox8.Controls.Add(this.txtFIMIEnd500);
             this.groupBox8.Controls.Add(this.txtFIMIEnd200);
             this.groupBox8.Controls.Add(this.txtFIMIEnd100);
             this.groupBox8.Controls.Add(this.txtFIMIEnd50);
-            this.groupBox8.Controls.Add(this.txtTimeFIMIEnd);
             this.groupBox8.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox8.Location = new System.Drawing.Point(103, 19);
             this.groupBox8.Name = "groupBox8";
@@ -767,24 +732,13 @@
             this.txtFIMIEnd50.Text = "0";
             this.txtFIMIEnd50.TextChanged += new System.EventHandler(this.txtFIMIEnd50_TextChanged);
             // 
-            // txtTimeFIMIEnd
-            // 
-            this.txtTimeFIMIEnd.Location = new System.Drawing.Point(27, 18);
-            this.txtTimeFIMIEnd.Mask = "00:00";
-            this.txtTimeFIMIEnd.Name = "txtTimeFIMIEnd";
-            this.txtTimeFIMIEnd.Size = new System.Drawing.Size(32, 20);
-            this.txtTimeFIMIEnd.TabIndex = 19;
-            this.txtTimeFIMIEnd.Text = "1200";
-            this.txtTimeFIMIEnd.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
-            this.txtTimeFIMIEnd.ValidatingType = typeof(System.DateTime);
-            // 
             // groupBox7
             // 
+            this.groupBox7.Controls.Add(this.dtpFIMISC);
             this.groupBox7.Controls.Add(this.txtFIMIStart200);
             this.groupBox7.Controls.Add(this.txtFIMIStart500);
             this.groupBox7.Controls.Add(this.txtFIMIStart100);
             this.groupBox7.Controls.Add(this.txtFIMIStart50);
-            this.groupBox7.Controls.Add(this.txtTimeFIMIStart);
             this.groupBox7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox7.Location = new System.Drawing.Point(7, 19);
             this.groupBox7.Name = "groupBox7";
@@ -833,17 +787,6 @@
             this.txtFIMIStart50.TabIndex = 15;
             this.txtFIMIStart50.Text = "0";
             this.txtFIMIStart50.TextChanged += new System.EventHandler(this.txtFIMIStart50_TextChanged);
-            // 
-            // txtTimeFIMIStart
-            // 
-            this.txtTimeFIMIStart.Location = new System.Drawing.Point(27, 18);
-            this.txtTimeFIMIStart.Mask = "00:00";
-            this.txtTimeFIMIStart.Name = "txtTimeFIMIStart";
-            this.txtTimeFIMIStart.Size = new System.Drawing.Size(32, 20);
-            this.txtTimeFIMIStart.TabIndex = 14;
-            this.txtTimeFIMIStart.Text = "1200";
-            this.txtTimeFIMIStart.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
-            this.txtTimeFIMIStart.ValidatingType = typeof(System.DateTime);
             // 
             // label22
             // 
@@ -1013,6 +956,16 @@
             this.groupBox14.TabStop = false;
             this.groupBox14.Text = "Chu kỳ kiểm quỹ";
             // 
+            // dtpTuNgay
+            // 
+            this.dtpTuNgay.CustomFormat = "HH:mm dd/MM/yyyy";
+            this.dtpTuNgay.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dtpTuNgay.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.dtpTuNgay.Location = new System.Drawing.Point(135, 16);
+            this.dtpTuNgay.Name = "dtpTuNgay";
+            this.dtpTuNgay.Size = new System.Drawing.Size(132, 20);
+            this.dtpTuNgay.TabIndex = 1;
+            // 
             // cbATMID
             // 
             this.cbATMID.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
@@ -1035,7 +988,7 @@
             // 
             // dtpDenNgay
             // 
-            this.dtpDenNgay.CustomFormat = "hh:mm dd/MM/yyyy";
+            this.dtpDenNgay.CustomFormat = "HH:mm dd/MM/yyyy";
             this.dtpDenNgay.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dtpDenNgay.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dtpDenNgay.Location = new System.Drawing.Point(343, 16);
@@ -1063,15 +1016,58 @@
             this.label24.TabIndex = 0;
             this.label24.Text = "Từ ngày:";
             // 
-            // dtpTuNgay
+            // dtpTruocCO
             // 
-            this.dtpTuNgay.CustomFormat = "hh:mm dd/MM/yyyy";
-            this.dtpTuNgay.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.dtpTuNgay.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dtpTuNgay.Location = new System.Drawing.Point(135, 16);
-            this.dtpTuNgay.Name = "dtpTuNgay";
-            this.dtpTuNgay.Size = new System.Drawing.Size(132, 20);
-            this.dtpTuNgay.TabIndex = 1;
+            this.dtpTruocCO.CustomFormat = "HH:mm";
+            this.dtpTruocCO.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dtpTruocCO.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.dtpTruocCO.ImeMode = System.Windows.Forms.ImeMode.NoControl;
+            this.dtpTruocCO.Location = new System.Drawing.Point(162, 31);
+            this.dtpTruocCO.Name = "dtpTruocCO";
+            this.dtpTruocCO.Size = new System.Drawing.Size(52, 20);
+            this.dtpTruocCO.TabIndex = 5;
+            // 
+            // dtpCO
+            // 
+            this.dtpCO.CustomFormat = "HH:mm";
+            this.dtpCO.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dtpCO.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.dtpCO.ImeMode = System.Windows.Forms.ImeMode.NoControl;
+            this.dtpCO.Location = new System.Drawing.Point(162, 57);
+            this.dtpCO.Name = "dtpCO";
+            this.dtpCO.Size = new System.Drawing.Size(52, 20);
+            this.dtpCO.TabIndex = 6;
+            // 
+            // dtpCI
+            // 
+            this.dtpCI.CustomFormat = "HH:mm";
+            this.dtpCI.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dtpCI.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.dtpCI.ImeMode = System.Windows.Forms.ImeMode.NoControl;
+            this.dtpCI.Location = new System.Drawing.Point(162, 83);
+            this.dtpCI.Name = "dtpCI";
+            this.dtpCI.Size = new System.Drawing.Size(52, 20);
+            this.dtpCI.TabIndex = 7;
+            // 
+            // dtpFIMISC
+            // 
+            this.dtpFIMISC.CustomFormat = "HH:mm";
+            this.dtpFIMISC.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.dtpFIMISC.ImeMode = System.Windows.Forms.ImeMode.NoControl;
+            this.dtpFIMISC.Location = new System.Drawing.Point(20, 18);
+            this.dtpFIMISC.Name = "dtpFIMISC";
+            this.dtpFIMISC.Size = new System.Drawing.Size(52, 20);
+            this.dtpFIMISC.TabIndex = 14;
+            // 
+            // dtpFIMICE
+            // 
+            this.dtpFIMICE.CustomFormat = "HH:mm";
+            this.dtpFIMICE.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.dtpFIMICE.ImeMode = System.Windows.Forms.ImeMode.NoControl;
+            this.dtpFIMICE.Location = new System.Drawing.Point(18, 18);
+            this.dtpFIMICE.Name = "dtpFIMICE";
+            this.dtpFIMICE.Size = new System.Drawing.Size(52, 20);
+            this.dtpFIMICE.TabIndex = 19;
             // 
             // frmKiemQuy
             // 
@@ -1149,9 +1145,6 @@
         private System.Windows.Forms.TextBox txtGhiChuIPCAS2;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.TextBox txtGhiChuIPCAS1;
-        private System.Windows.Forms.MaskedTextBox txtTimeIPCAS3;
-        private System.Windows.Forms.MaskedTextBox txtTimeIPCAS2;
-        private System.Windows.Forms.MaskedTextBox txtTimeIPCAS1;
         private System.Windows.Forms.GroupBox groupBox5;
         private System.Windows.Forms.Label label21;
         private System.Windows.Forms.Label label20;
@@ -1164,7 +1157,6 @@
         private System.Windows.Forms.TextBox txtFIMIStart200;
         private System.Windows.Forms.TextBox txtFIMIStart100;
         private System.Windows.Forms.TextBox txtFIMIStart50;
-        private System.Windows.Forms.MaskedTextBox txtTimeFIMIStart;
         private System.Windows.Forms.GroupBox groupBox9;
         private System.Windows.Forms.GroupBox groupBox10;
         private System.Windows.Forms.GroupBox groupBox13;
@@ -1187,7 +1179,6 @@
         private System.Windows.Forms.TextBox txtFIMIEnd200;
         private System.Windows.Forms.TextBox txtFIMIEnd100;
         private System.Windows.Forms.TextBox txtFIMIEnd50;
-        private System.Windows.Forms.MaskedTextBox txtTimeFIMIEnd;
         private System.Windows.Forms.GroupBox groupBox3;
         private System.Windows.Forms.Label label18;
         private System.Windows.Forms.Label label14;
@@ -1207,5 +1198,10 @@
         private System.Windows.Forms.Label label26;
         private System.Windows.Forms.Button btnXoa;
         private System.Windows.Forms.DateTimePicker dtpTuNgay;
+        private System.Windows.Forms.DateTimePicker dtpCI;
+        private System.Windows.Forms.DateTimePicker dtpCO;
+        private System.Windows.Forms.DateTimePicker dtpTruocCO;
+        private System.Windows.Forms.DateTimePicker dtpFIMICE;
+        private System.Windows.Forms.DateTimePicker dtpFIMISC;
     }
 }

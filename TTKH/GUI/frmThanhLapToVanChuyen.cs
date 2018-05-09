@@ -139,7 +139,7 @@ namespace AGRIBANKHD.GUI
                 if (!u.gioiTinh) gt = "Bà";
                 string pb = Thong_tin_dang_nhap.ten_cn;
                 if (u.chucvu != "Giám đốc" && u.chucvu != "Phó Giám đốc")
-                    pb = Thong_tin_dang_nhap.tenPb;
+                    pb = ToVanChuyenDAL.DV_LAYPHONGBAN(u.mapb);
                 giamSat1 = index + ". " + gt + ": " + u.tennv + ", Số hộ chiếu/CMND/CCCD: " + txtCMNDGiamSat1.Text + " Ngày cấp: " + txtNgayCapGiamSat1.Text +
                     " Nơi cấp: " + txtNoiCapGiamSat1.Text + "; Chức vụ: " + u.chucvu + " " + pb + "; Chức danh: Giám sát;";
                 tb.Rows[index].Cells[1].Range.Text = giamSat1;
@@ -155,7 +155,7 @@ namespace AGRIBANKHD.GUI
                 if (!u.gioiTinh) gt = "Bà";
                 string pb = Thong_tin_dang_nhap.ten_cn;
                 if (u.chucvu != "Giám đốc" && u.chucvu != "Phó Giám đốc")
-                    pb = Thong_tin_dang_nhap.tenPb;
+                    pb = ToVanChuyenDAL.DV_LAYPHONGBAN(u.mapb);
                 giamSat2 = index + ". " + gt + ": " + u.tennv + ", Số hộ chiếu/CMND/CCCD: " + txtCMNDGiamSat2.Text + " Ngày cấp: " + txtNgayCapGiamSat2.Text +
                     " Nơi cấp: " + txtNoiCapGiamSat2.Text + "; Chức vụ: " + u.chucvu + " " + pb + "; Chức danh: Giám sát;";
                 tb.Rows[index].Cells[1].Range.Text = giamSat2;

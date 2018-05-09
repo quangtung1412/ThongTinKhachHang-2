@@ -18,5 +18,15 @@ namespace AGRIBANKHD.DAL
             DataTable dt = db.dt("DV_GET_THONGTINNHANVIEN_MANV", Params);
             return dt;
         }
+
+        public static string DV_LAYPHONGBAN(string maPb)
+        {
+            DataAccess db = new DataAccess();
+            SqlParameter[] Params = new SqlParameter[]{
+                new SqlParameter("@mapb", maPb)
+            };
+            DataTable dt = db.dt("DV_LAYPHONGBAN", Params);
+            return dt.Rows[0]["TENPB"].ToString();
+        }
     }
 }

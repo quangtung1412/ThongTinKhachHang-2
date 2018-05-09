@@ -75,7 +75,7 @@ namespace AGRIBANKHD.GUI
             {
                 var u = new User(dt.Rows[i]);
                 users.Add(u);
-                cbCanBo.Items.Add(u.tennv);
+                cbCanBo.Items.Add(u.tennv + " - " + u.chucvu);
             }
         }
 
@@ -138,14 +138,20 @@ namespace AGRIBANKHD.GUI
 
             //IPCAS
             listDich.Add("<T_CO>");
-            timeTCO = DateTime.ParseExact(txtTimeIPCAS1.Text, "hh:mm", CultureInfo.InvariantCulture);
-            listNguon.Add(txtTimeIPCAS1.Text);
+            //timeTCO = DateTime.ParseExact(txtTimeIPCAS1.Text, "HH:mm", CultureInfo.InvariantCulture);
+            //listNguon.Add(txtTimeIPCAS1.Text);
+            timeTCO = dtpTruocCO.Value;
+            listNguon.Add(timeTCO.ToString("HH:mm"));
             listDich.Add("<CO>");
-            timeCO = DateTime.ParseExact(txtTimeIPCAS2.Text, "hh:mm", CultureInfo.InvariantCulture);
-            listNguon.Add(txtTimeIPCAS2.Text);
+            //timeCO = DateTime.ParseExact(txtTimeIPCAS2.Text, "HH:mm", CultureInfo.InvariantCulture);
+            //listNguon.Add(txtTimeIPCAS2.Text);
+            timeCO = dtpCO.Value;
+            listNguon.Add(timeCO.ToString("HH:mm"));
             listDich.Add("<CI>");
-            timeCI = DateTime.ParseExact(txtTimeIPCAS3.Text, "hh:mm", CultureInfo.InvariantCulture);
-            listNguon.Add(txtTimeIPCAS3.Text);
+            //timeCI = DateTime.ParseExact(txtTimeIPCAS3.Text, "HH:mm", CultureInfo.InvariantCulture);
+            //listNguon.Add(txtTimeIPCAS3.Text);
+            timeCI = dtpCI.Value;
+            listNguon.Add(timeCI.ToString("HH:mm"));
             listDich.Add("<DU_T_CO>");
             soDuTCO = Convert.ToInt64(XoaDauPhay(txtSoDuIPCAS1.Text));
             listNguon.Add(txtSoDuIPCAS1.Text);
@@ -166,8 +172,10 @@ namespace AGRIBANKHD.GUI
 
             //STARTING CASH
             listDich.Add("<TIME_SC>"); //TIME
-            timeSC = DateTime.ParseExact(txtTimeFIMIStart.Text, "hh:mm", CultureInfo.InvariantCulture);
-            listNguon.Add(txtTimeFIMIStart.Text);
+            //timeSC = DateTime.ParseExact(txtTimeFIMIStart.Text, "HH:mm", CultureInfo.InvariantCulture);
+            //listNguon.Add(txtTimeFIMIStart.Text);
+            timeSC = dtpFIMISC.Value;
+            listNguon.Add(timeSC.ToString("HH:mm"));
             listDich.Add("<FIMI_SC50>"); //SO TO
             fimiSC50 = Convert.ToInt64(XoaDauPhay(txtFIMIStart50.Text));
             listNguon.Add(txtFIMIStart50.Text);
@@ -208,8 +216,10 @@ namespace AGRIBANKHD.GUI
 
             //CASH END
             listDich.Add("<TIME_CE>"); //TIME
-            timeCE = DateTime.ParseExact(txtTimeFIMIEnd.Text, "hh:mm", CultureInfo.InvariantCulture);
-            listNguon.Add(txtTimeFIMIEnd.Text);
+            //timeCE = DateTime.ParseExact(txtTimeFIMIEnd.Text, "HH:mm", CultureInfo.InvariantCulture);
+            //listNguon.Add(txtTimeFIMIEnd.Text);
+            timeCE = dtpFIMICE.Value;
+            listNguon.Add(timeCE.ToString("HH:mm"));
             listDich.Add("<FIMI_CE50>");//SO TO
             fimiCE50 = Convert.ToInt64(XoaDauPhay(txtFIMIEnd50.Text));
             listNguon.Add(txtFIMIEnd50.Text);
@@ -373,7 +383,7 @@ namespace AGRIBANKHD.GUI
             if (CommonMethods.CreateWordDocument(TemplateFileLocation, saveFileLocation, listDich, listNguon))
             {
                 MessageBox.Show("File đã được tạo tại đường dẫn: " + saveFileLocation, "Tạo file thành công");
-                Thread.Sleep(500);
+                //Thread.Sleep(500);
                 OpenFileWord(saveFileLocation);
             }
         }
@@ -388,9 +398,9 @@ namespace AGRIBANKHD.GUI
                 string hoTen = "- "+ usersKiemQuy[i].tennv;
                 string chucVu = "- "+usersKiemQuy[i].chucvu + " " + Thong_tin_dang_nhap.tenPb;
                 if (usersKiemQuy[i].chucvu == "Giám đốc" || usersKiemQuy[i].chucvu == "Phó Giám đốc")
-                    chucVu = "- " + usersKiemQuy[i].chucvu + " " + Thong_tin_dang_nhap.ten_cn;
+                    chucVu = "- " + usersKiemQuy[i].chucvu.Replace("Phó Giám đốc", "PGĐ").Replace("Giám đốc", "GĐ") + " " + Thong_tin_dang_nhap.ten_cn.Replace("chi nhánh", "CN").Replace("Thành phố", "tp");
                 else if (usersKiemQuy[i].chucvu == "Nhân viên") chucVu = "- " + "Cán bộ nghiệp vụ thẻ";
-                string chucDanh = "- " + "Giám sát";
+                string chucDanh = "- " + "Thành viên";
                 if (usersKiemQuy[i] == usersKiemQuy[0])
                     chucDanh = "- " + "Trưởng ban";
 
@@ -399,7 +409,7 @@ namespace AGRIBANKHD.GUI
                 tb.Rows[i + 1].Cells[3].Range.Text = chucDanh;
                 if (i != usersKiemQuy.Count - 1)
                     tb.Rows.Add(oMissing);
-
+                doc.Save();
             }
         }
 
@@ -408,17 +418,6 @@ namespace AGRIBANKHD.GUI
             Microsoft.Office.Interop.Word.Application ap = new Microsoft.Office.Interop.Word.Application();
             Microsoft.Office.Interop.Word.Document document = ap.Documents.Open(fileLocation);
             PutStringIntoTable(document);
-            //ap.Visible = false;
-            //try
-            //{
-            //    document.PrintOut();
-            //}
-            //catch
-            //{
-            //    MessageBox.Show("Vui lòng kiểm tra máy in!", "Thông báo", MessageBoxButtons.OK);
-            //}
-            //document.Close();
-            //ap.Quit();
             ap.Visible = true;
         }
 
@@ -478,8 +477,9 @@ namespace AGRIBANKHD.GUI
                 return;
             }
             //Tao file
-            Thread th = new Thread(TaoFileKiemQuy);
-            th.Start();
+            TaoFileKiemQuy();
+            //Thread th = new Thread(TaoFileKiemQuy);
+            //th.Start();
         }
 
         private void frmKiemQuy_Load(object sender, EventArgs e)
