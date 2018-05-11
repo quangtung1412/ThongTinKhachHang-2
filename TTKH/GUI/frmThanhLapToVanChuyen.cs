@@ -133,6 +133,7 @@ namespace AGRIBANKHD.GUI
             if (cbGiamSat1.SelectedItem != null)
             {
                 tb.Rows.Add(oMissing);
+                tb.Rows.Add(tb.Rows[index]);
                 index++;
                 var u = users[cbGiamSat1.SelectedIndex];
                 string gt = "Ông";
