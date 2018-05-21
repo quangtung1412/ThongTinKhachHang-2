@@ -1137,7 +1137,7 @@ namespace AGRIBANKHD.GUI
             string dtdd = txtDTDD_SMS_Moi.Text;
             int hmgd = 0;
             int baoHiem = 0;
-            if (!string.IsNullOrEmpty(txtHMGD_Moi.Text)) hmgd = int.Parse(txtHMGD_Moi.Text);
+            if (!string.IsNullOrEmpty(txtHMGD_Moi.Text)) hmgd = int.Parse(txtHMGD_Moi.Text.Replace(",",""));
             if (ckbBaoHiem_Moi.Checked) baoHiem = 1;
 
             try //Luu thong tin the noi dia
@@ -1163,7 +1163,7 @@ namespace AGRIBANKHD.GUI
             string dtdd = txtDTDD_SMS_Moi.Text;
             int hmgd = 0;
             int baoHiem = 0;
-            if (!string.IsNullOrEmpty(txtHMGD_Moi.Text)) hmgd = int.Parse(txtHMGD_Moi.Text);
+            if (!string.IsNullOrEmpty(txtHMGD_Moi.Text)) hmgd = int.Parse(txtHMGD_Moi.Text.Replace(",",""));
             if (ckbBaoHiem_Moi.Checked) baoHiem = 1;
             try //Luu thong tin the quoc te
             {
